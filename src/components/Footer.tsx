@@ -1,6 +1,6 @@
 import Image from 'next/image';
 import Link from 'next/link';
-import Logo from '../../public/images/icon-v.png';
+import Logo from '/public/images/icon-v.png';
 
 const Footer = () => {
   function toTop(e: any) {
