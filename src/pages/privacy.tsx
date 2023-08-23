@@ -12,7 +12,6 @@ const privacyPolicy = () => {
         <p className="text-lg font-openSans text-[#555] mb-5 md:mb-7">When you visit our mobile application, and use our services, you trust us with your personal information. We take your privacy very seriously. In this privacy notice, we describe our privacy policy. We seek to explain to you in the clearest way possible what information we collect, how we use it and what rights you have in relation to it. We hope you take some time to read through it carefully, as it is important. If there are any terms in this privacy policy that you do not agree with, please discontinue use of our Apps and our services.</p>
         <p className="text-lg font-openSans text-[#555] mb-5 md:mb-7">This privacy policy applies to all information collected through our mobile application, (“Apps”), and/or any related services, sales, marketing or events (we refer to them collectively in this privacy policy as the “Sites”). </p>
         <p className="text-lg font-openSans text-[#555] mb-5 md:mb-7">
-          {' '}
           <strong> Please read this privacy policy carefully as it will help you make informed decisions about sharing your personal information with us.</strong>{' '}
         </p>
         <h2 className="text-2xl md:text-3xl font-bold text-primary mb-8 md:mb-14">
