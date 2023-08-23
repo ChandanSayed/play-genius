@@ -4,7 +4,7 @@ import promoBgSmall from '../../public/images/promo-bg-mobile.png';
 
 const HeroSection = () => {
   return (
-    <section className="relative md:min-h-[100vh] bg-gradient-to-t	from-[#9cf3ff] to-[#31c1ff] pt-28 md:pt-[180px] pb-[120px]  before:bg-[url(../../public/images/sky-paralapse.svg)] before:w-full before:inline-block before:absolute before:top-[100px] before:left-1/2 before:transform before:translate-x-[-50%] before:h-[646px] before:z-10 before:bg-cover before:bg-[50%] text-center mt-[57px]">
+    <section className="relative md:min-h-[100vh] bg-gradient-to-t	from-[#9cf3ff] to-[#31c1ff] pt-28 md:pt-[180px] pb-[120px]  before:bg-[url(../../public/images/sky-paralapse.svg)] before:w-full before:inline-block before:absolute before:top-[100px] before:left-1/2 before:transform before:translate-x-[-50%] before:h-[646px] before:z-10 before:bg-cover before:bg-[50%] text-center mt-12 md:mt-[57px]">
       <div className="hero-text relative z-30 pb-24 md:pb-28 lg:pb-40">
         <h1 className="text-white text-center text-5xl md:text-8xl font-bold mb-4">
           Smart apps <br />
